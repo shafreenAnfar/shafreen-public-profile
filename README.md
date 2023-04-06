@@ -15,7 +15,7 @@
       <a href="https://github.com/shafreenAnfar" target="_blank"><img src="./icons/32x/github.png" alt="github" width="20"></a>&nbsp;&nbsp;
       <a href="https://medium.com/@anfar.shafreen" target="_blank"><img src="./icons/32x/medium.png" alt="medium" width="20"></a>&nbsp;&nbsp;
       <a href="https://twitter.com/shafreen101" target="_blank"><img src="./icons/32x/twitter.png" alt="twitter" width="20"></a>&nbsp;&nbsp;
-      <a href="https://500px.com/p/Shafreen?view=photos" target="_blank"><img src="./icons/32x/500px.png" alt="flickr" width="20"></a>
+      <a href="https://500px.com/p/Shafreen?view=photos" target="_blank"><img src="./icons/32x/500px.png" alt="500px" width="20"></a>
     </td>
   </tr>
 </table>
