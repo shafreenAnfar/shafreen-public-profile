@@ -1,12 +1,12 @@
 # Shafreen Anfar
 
-##### Software Architect | Associate Director | Forever learner | Distributed Systems Enthusiast | Developer of [Ballerina Language](https://ballerina.io/) | Apache Committer and PMC Member
+##### Software Architect | Associate Director | Forever learner | Distributed Systems Enthusiast | Developer of [Ballerina Language](https://ballerina.io/) | Apache Committer and PMC Member | Seasoned Engineering Manager
 
 <!--suppress CheckImageSize -->
 <table>
   <tr style="border: none;">
     <td style="text-align: center; border: none;">
-      <img src="./images/profile.jpg" alt="Shafreen Anfar @shafreenAnfar" width="150">
+      <img src="./images/profile2.png" alt="Shafreen Anfar @shafreenAnfar" width="150">
     </td>
     <td style="border: none;">
       <a href="mailto:anfar.shafreen@gmail.com">anfar.shafreen@gmail.com</a><br/>
@@ -22,7 +22,7 @@
 
 A distributed system specialist with a demonstrated ten(+) year history of working in the computer software industry. Especially in the domain of microservices, middleware and API management. Possess excellent skills in various areas starting from programming, customer handling to team management. Started the career working on a Domain Specific Language (DSL) for integration and currently working on a fully-fledged programming language specialized for writing distributed applications.
 
-I love traveling, exploring new destinations, cultures and capturing memories into beautiful pictures.
+I have a passion for travel, immersing myself in unfamiliar places, experiencing diverse cultures, and preserving those moments through captivating photographs.
 
 <br/><br/>
 
@@ -92,37 +92,37 @@ I love traveling, exploring new destinations, cultures and capturing memories in
   <tr style="border: none;">
     <td style="border: none;"><b>Domain Expertise</b></td>
     <td style="border: none;">
-      IAM, Security, JWT, JWK, JWS, OAuth, LDAP, SSO, MFA, Cryptography, Hashing, Encryption, Digital Signature, HTTP, HTTP/2, GraphQL, gRPC, WebSocket, WebSub
+      HTTP, HTTP/2, REST, GraphQL, gRPC, WebSocket, WebSub, SOA, MSA, OSI Model, Security, JWT, JWK, JWS, OAuth, API Management, Integration, Netty
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"><b>Programming</b></td>
     <td style="border: none;">
-      JAVA, Go, Kotlin, Ballerina, JSP, Servlets, PHP, C#, Python, HTML 5, JS, SQL, XML, CSS
+      JAVA, Go, Ballerina, C#, Servlets, Python, HTML 5, SQL, XML, CSS
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"><b>Framework</b></td>
     <td style="border: none;">
-      Spring, MSF4J, Hibernate, Electron, Bootstrap 3
+      Spring boot, MSF4J, WSO2 Carbon, OSGi
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"><b>Database</b></td>
     <td style="border: none;">
-      MySQL, MongoDB
+      MySQL, MSSQL, PostgreSQL
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"><b>CI/CD & Test Automation</b></td>
     <td style="border: none;">
-      Git, GitHub, Mercurial, Travis, Jenkins, Junit, TestNG, Apache JMeter
+      Git, GitHub, Bitbucket, Travis, Jenkins, Junit, TestNG, Mockito, Apache JMeter
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"><b>DevOps</b></td>
     <td style="border: none;">
-      Amazon AWS, Microsoft Azure, GCP, Docker, Kubernetes
+      Amazon AWS, Microsoft Azure, Docker, Kubernetes
     </td>
   </tr>
 </table>
@@ -164,7 +164,7 @@ I love traveling, exploring new destinations, cultures and capturing memories in
 - <a href="https://medium.com/@anfar.shafreen/feedback-what-underpins-the-culture-of-freedom-and-responsibility-8499a44fe766" target="_blank">Feedback: What Underpins the Culture of Freedom and Responsibility</a> (Feb 2019)
 - <a href="https://medium.com/@anfar.shafreen/eat-my-dust-making-of-ballerinas-lightning-fast-http-transport-ce6b1955ff91" target="_blank">Eat My Dust! : Making of Ballerina’s Lightning Fast HTTP Transport</a> (May 2018)
 - <a href="https://medium.com/@anfar.shafreen/snorkeling-in-hikkaduwa-beach-sri-lanka-50e04bb10190" target="_blank">Snorkeling in Hikkaduwa — Sri Lanka</a> (Jan 2019)
-- <a href="https://medium.com/@ldclakmal/nio-file-transport-c0811cb0369b" target="_blank">Clone and Aggregate Integration Pattern with Ballerina</a> (Dec 2018)
+- <a href="https://medium.com/ballerina-techblog/clone-and-aggregate-integration-pattern-with-ballerina-bdcd537b683" target="_blank">Clone and Aggregate Integration Pattern with Ballerina</a> (Dec 2018)
 - <a href="https://medium.com/@anfar.shafreen/five-principles-of-ethical-leadership-218eccbb4918" target="_blank">Five Principles of Ethical Leadership</a> (Mar 2017)
 - <a href="https://github.com/ballerina-platform/module-ballerina-http/tree/master/examples/snowpeak" target="_blank">A Guideline on Writing REST APIs</a> (Jan 2022)
 
@@ -226,8 +226,8 @@ I love traveling, exploring new destinations, cultures and capturing memories in
 
 ### Ballerina | Cloud Native Programming Language
 
-![link][link] <https://ballerina.io><br/>
-![github][github] <https://github.com/ballerina-platform/ballerina-lang>
+![link](./icons/16x/link.png) <https://ballerina.io><br/>
+![github](./icons/16x/github.png) <https://github.com/ballerina-platform/ballerina-lang>
 
 Ballerina is a statically typed, compiled programming language designed for network distributed application development. Ballerina standard library which is often described as "batteries included", provides a vast array of standard libraries which includes modules such as GraphQL, gRPC, REST, HTTP, OAuth2, JWT, WebSub, etc. I am playing the lead role of the standard library team.
 
@@ -258,8 +258,7 @@ Technologies: Ballerina, Java, IAM, JWT, OAuth, Cryptography, Git, Gradle, TestN
 
 ### WSO2 ESB | The Fastest Open Source Enterprise Service Bus (ESB) in the World
 
-![link][link] <https://idstack.github.io><br/>
-![github][github] <https://github.com/idstack>
+![link](./icons/16x/link.png) <https://wso2.com/integration/>
 
 WSO2 ESB is the fastest open source ESB in the world which is built on OSGi based framework known as WSO2 Carbon platform. WSO2 ESB provides vast range of features for administrators and developers such as message routing, mediation, transformation, logging, task scheduling, failover, load balancing, and many more. It supports almost all the transports starting from HTTP, HTTPS, POP, IMAP, SMTP, JMS, AMQP to TCP, UDP to custom transports like FIX. It facilitates JSON, XML, SOAP 1.1, SOAP 1.2, WS-*, EDI, HL7, OAGIS, Text, MP4 and all binary formats. 'eBay' uses WSO2 ESB to handle 1 billion transactions per day using WSO2 ESB. I played the role of software engineer for the ESB team. 
 
@@ -328,7 +327,7 @@ In addition to aforementioned projects as an integration consultant, I have take
 
 | Date| Description |
 |----------|---|
-| Feb 2022 | Released <a href="https://ballerina.io/" target="_blank">Ballerina 2201.0.0 (Swan Lake)</a> v1.0 programming language (open-source project), which I contributed full-time as the stanadard library architect|
+| Feb 2022 | Released <a href="https://ballerina.io/" target="_blank">Ballerina 2201.0.0 (Swan Lake)</a> programming language (open-source project), which I contributed full-time as the stanadard library architect|
 | Nov 2021 | Promoted to software architect at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a>|
 | Oct 2019 | Promoted to senior technical lead at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a>|
 | Sep 2019 | Released <a href="https://ballerina.io/" target="_blank">Ballerina v1.0 </a> programming language (open-source project), which I contributed full-time as the stanadard library lead and then as an engineering manager |
@@ -360,10 +359,13 @@ In addition to aforementioned projects as an integration consultant, I have take
       <img src="./images/books/cleancode.jpg" alt="Clean code" width="150"/>
     </td>
     <td style="border: none;">
-      <img src="./images/books/managerspath.jpg" alt="imagine cup national finals" width="150"/>
+      <img src="./images/books/managerspath.jpg" alt="Managers Path" width="150"/>
     </td>
     <td style="border: none;">
-      <img src="./images/books/sapiens.jpeg" alt="nbqsa 2017" width="150"/>
+      <img src="./images/books/sapiens.jpeg" alt="Sapiens" width="150"/>
+    </td>
+    <td style="border: none;">
+      <img src="./images/books/hitrefresh.jpeg" alt="Hit Refresh" width="150"/>
     </td>
   </tr>
 </table>
