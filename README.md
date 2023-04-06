@@ -370,4 +370,22 @@ In addition to aforementioned projects as an integration consultant, I have take
   </tr>
 </table>
 
+<br/><br/>
+
+## CRICKET ENTHUSIAST
+
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="./images/cricket/1.jpg" alt="Bowling" width="150"/>
+    </td>
+    <td style="border: none;">
+      <img src="./images/cricket/2.jpg" alt="Award" width="100"/>
+    </td>
+    <td style="border: none;">
+      <img src="./images/cricket/3.jpg" alt="Team" width="220"/>
+    </td>
+  </tr>
+</table>
+
 ---
