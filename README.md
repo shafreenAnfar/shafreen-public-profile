@@ -328,10 +328,10 @@ In addition to aforementioned projects as an integration consultant, I have take
 
 | Date| Description |
 |----------|---|
-| Feb 2022 | Released <a href="https://ballerina.io/" target="_blank">Ballerina</a> v1.0 programming language (open-source project), which I contributed full-time as the stanadard library architect|
+| Feb 2022 | Released <a href="https://ballerina.io/" target="_blank">Ballerina 2201.0.0 (Swan Lake)</a> v1.0 programming language (open-source project), which I contributed full-time as the stanadard library architect|
 | Nov 2021 | Promoted to software architect at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a>|
 | Oct 2019 | Promoted to senior technical lead at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a>|
-| Sep 2019 | Released <a href="https://ballerina.io/" target="_blank">Ballerina</a> v1.0 programming language (open-source project), which I contributed full-time as the stanadard library lead and then as an engineering manager |
+| Sep 2019 | Released <a href="https://ballerina.io/" target="_blank">Ballerina v1.0 </a> programming language (open-source project), which I contributed full-time as the stanadard library lead and then as an engineering manager |
 | Apr 2018 | Promoted to technical lead at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a>|
 | Mar 2017 | Promoted to associate technical lead at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a>|
 | Apr 2015 | Promoted to senior software engineer at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a>|
