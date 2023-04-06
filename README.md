@@ -176,47 +176,13 @@ I love traveling, exploring new destinations, cultures and capturing memories in
 <table>
   <tr style="border: none;">
     <td style="border: none;">
-      <img src="./images/awards/imagine-cup-world-finals.jpg" alt="imagine cup world finals" width="250"/>
+      <img src="./images/awards/award1.jpeg" alt="Outsanding performance award" width="200"/>
     </td>
     <td style="border: none;">
-      <img src="./images/awards/imagine-cup-big-pitch-challenge.jpg" alt="imagine cup big pitch" width="250"/>
+      <img src="./images/awards/award2.jpeg" alt="Outsanding performance award" width="200"/>
     </td>
     <td style="border: none;">
-      <img src="./images/awards/icames.jpg" alt="icames" width="250"/>
-    </td>
-    <td style="border: none;">
-      <img src="./images/awards/imagine-cup-national-finals.jpg" alt="imagine cup national finals" width="250"/>
-    </td>
-    <td style="border: none;">
-      <img src="./images/awards/nbqsa-17.png" alt="nbqsa 2017" width="250"/>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="./images/awards/google-io.jpg" alt="google io" width="250"/>
-    </td>
-    <td style="border: none;">
-      <img src="./images/awards/ygc.jpg" alt="yarl geek challenge" width="250"/>
-    </td>
-    <td style="border: none;">
-      <img src="./images/awards/nbqsa-15.jpg" alt="nbqsa 2015" width="250"/>
-    </td>
-    <td style="border: none;">
-      <img src="./images/awards/morahack.jpg" alt="mora hack" width="250"/>
-    </td>
-    <td style="border: none;">
-      <img src="./images/awards/rotaract-digital-communication.jpg" alt="rotaract digital communication" width="250"/>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="./images/awards/linkr.jpg" alt="link rotaract" width="250"/>
-    </td>
-    <td style="border: none;">
-      <img src="./images/awards/rotaract-year-16-17.jpg" alt="rotaract year 2016/17" width="250"/>
-    </td>
-    <td style="border: none;">
-      <img src="./images/awards/wso2-sustained-outstanding-contribution-2019.jpg" alt="wso2" width="250"/>
+      <img src="./images/awards/award3.jpg" alt="Outsanding performance award" width="200"/>
     </td>
   </tr>
 </table>
