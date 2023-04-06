@@ -339,8 +339,8 @@ In addition to aforementioned projects as an integration consultant, I have take
 | Mar 2012 | Started working at <a href="https://www.directfn.com/en/" target="_blank">DirectFn</a> as a software engineer|
 | Dec 2011 | Completed the B.Sc. in Information Technology at <a href="https://www.sliit.lk/" target="_blank">Sri Lanka Institue of Information Technology</a> with a first class honours|
 | Aug 2011 | Published the research paper "BribeWire: Assuring trustworthiness of bribery complaints" in <a href="https://ieeexplore.ieee.org/document/6038057" target="_blank">2011 6th International Conference on Industrial and Information Systems<a>|
-| Dec 2010 | Started the B.Sc. in Information Technology at <a href="https://www.curtin.edu.au/" target="_blank">Curtin University</a>|
-| Jan 2008 | Completed the B.Sc. in Information Technology at <a href="https://www.curtin.edu.au/" target="_blank">Curtin University</a>|
+| Dec 2010 | Completed the B.Sc. in Information Technology at <a href="https://www.curtin.edu.au/" target="_blank">Curtin University</a>|
+| Jan 2008 | Started the B.Sc. in Information Technology at <a href="https://www.curtin.edu.au/" target="_blank">Curtin University</a>|
 | Jan 2008 | Started the B.Sc. in Information Technology at <a href="https://www.sliit.lk/" target="_blank">Sri Lanka Institue of Information Technology</a>|
 
 <br/><br/>
