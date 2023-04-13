@@ -92,25 +92,49 @@ I have a passion for travel, immersing myself in unfamiliar places, experiencing
   <tr style="border: none;">
     <td style="border: none;"><b>Domain Expertise</b></td>
     <td style="border: none;">
-      HTTP, HTTP/2, REST, GraphQL, gRPC, WebSocket, WebSub, SOA, MSA, OSI Model, Security, JWT, JWK, JWS, OAuth, API Management, Integration, Netty
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;"><b>Programming</b></td>
-    <td style="border: none;">
-      JAVA, Go, Ballerina, C#, Servlets, Python, HTML 5, SQL, XML, CSS
+      REST, GraphQL, gRPC, WebSub, SOA, MSA, OSI Model, API Management, Integration, Netty, DSL and General purpose language designing
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"><b>Framework</b></td>
     <td style="border: none;">
-      Spring boot, MSF4J, WSO2 Carbon, OSGi
+      Spring boot, MSF4J, WSO2 Carbon, OSGi, GraalVM
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><b>Security</b></td>
+    <td style="border: none;">
+      SSL\TLS, mTLS, Basic Authentication, JWT, JWK, JWS, OAuth2, OIDC, LDAP
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><b>Message Formats</b></td>
+    <td style="border: none;">
+      JSON, XML, SOAP, Protocol Buffers, EDI
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><b>Network Protocols</b></td>
+    <td style="border: none;">
+      HTTP, HTTP/2, Websocket, SSE, FTP, SFTP, SMTP, POP3, IMAP, TCP/IP, UDP, ARP, DNS, DHCP
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><b>Programming</b></td>
+    <td style="border: none;">
+      Java, Go, Ballerina, C#, Servlets, Python, SQL
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"><b>Database</b></td>
     <td style="border: none;">
       MySQL, MSSQL, PostgreSQL
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><b>Message Brokers</b></td>
+    <td style="border: none;">
+      NATS, RabbitMQ, Kafka, Azure Event Hub, Azure Service Bus
     </td>
   </tr>
   <tr style="border: none;">
@@ -123,6 +147,12 @@ I have a passion for travel, immersing myself in unfamiliar places, experiencing
     <td style="border: none;"><b>DevOps</b></td>
     <td style="border: none;">
       Amazon AWS, Microsoft Azure, Docker, Kubernetes
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><b>Troubleshooting Tools</b></td>
+    <td style="border: none;">
+      Wireshark, JFR, Memory Analyzer (MAT)
     </td>
   </tr>
 </table>
