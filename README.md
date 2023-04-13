@@ -322,7 +322,7 @@ DirectFN is a pioneer in FinTech. It provides ready made one-stop fully integrat
 <table>
   <tr style="border: none;">
     <td style="border: none;">
-      <img src="./images/customer-engagement.png" alt="awards icon" width="500">
+      <img src="./images/customer-engagement.png" alt="awards icon" width="1000">
     </td>
     <td style="border: none;">
       In addition to aforementioned projects, I have taken part in many customer engagements around the globe. These customer engagements varies from Quick Start Programs (QSPs) in which a proof of concept is implemented withing a time period of one week, customer training programs related to WSO2 products, to troubleshooting urgent production issues on sight. 
@@ -330,7 +330,7 @@ DirectFN is a pioneer in FinTech. It provides ready made one-stop fully integrat
       Countries: Canada, Germany, India, Italy, Netherlands, Singapore, Spain, Sri Lanka, Switzerland, UK, USA
     </td>
   </tr>
-<table>
+</table>
 
 <br/><br/>
 
