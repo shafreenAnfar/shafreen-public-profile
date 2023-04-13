@@ -1,7 +1,3 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="./icons/favicon.ico">
-</head>
-
 # Shafreen Anfar
 
 ##### Software Architect | Associate Director | Forever learner | Distributed Systems Enthusiast | Developer of [Ballerina Language](https://ballerina.io/) | Apache Committer and PMC Member | Seasoned Engineering Manager
