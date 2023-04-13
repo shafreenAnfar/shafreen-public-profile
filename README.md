@@ -317,9 +317,20 @@ DirectFN is a pioneer in FinTech. It provides ready made one-stop fully integrat
 - Worked with deployment team on deploying the server 
 - Troubleshot and fix issues in production 
 
-### Integration consultant stints around the globe | India, Singapore, Canada, USA, Netherlands, Italy, Germany, Switzerland
+## Customer Engagements
 
-In addition to aforementioned projects as an integration consultant, I have taken part in many other customer engagements around the globe. These customer engagements varies from Quick Start Programs (QSPs) in which a Proof of Concept is Implemented withing a time period of one week, Customer training programs related to WSO2 product, to debugging urgent issues on sight. 
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="./images/customer-engagement.png" alt="awards icon" width="500">
+    </td>
+    <td style="border: none;">
+      In addition to aforementioned projects, I have taken part in many customer engagements around the globe. These customer engagements varies from Quick Start Programs (QSPs) in which a proof of concept is implemented withing a time period of one week, customer training programs related to WSO2 products, to troubleshooting urgent production issues on sight. 
+      <br/><br/>
+      Countries: Canada, Germany, India, Italy, Netherlands, Singapore, Spain, Sri Lanka, Switzerland, UK, USA
+    </td>
+  </tr>
+<table>
 
 <br/><br/>
 
