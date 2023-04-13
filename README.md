@@ -317,12 +317,14 @@ DirectFN is a pioneer in FinTech. It provides ready made one-stop fully integrat
 - Worked with deployment team on deploying the server 
 - Troubleshot and fix issues in production 
 
+<br/><br/>
+
 ## Customer Engagements
 
 <table>
   <tr style="border: none;">
     <td style="border: none;">
-      <img src="./images/customer-engagement.png" alt="awards icon" width="1000">
+      <img src="./images/customer-engagement.png" alt="awards icon" width="1200">
     </td>
     <td style="border: none;">
       In addition to aforementioned projects, I have taken part in many customer engagements around the globe. These customer engagements varies from Quick Start Programs (QSPs) in which a proof of concept is implemented withing a time period of one week, customer training programs related to WSO2 products, to troubleshooting urgent production issues on sight. 
