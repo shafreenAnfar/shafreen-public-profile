@@ -1,6 +1,6 @@
 # Shafreen Anfar
 
-##### Software Architect | Associate Director | Forever learner | Distributed Systems Enthusiast | Developer of [Ballerina Language](https://ballerina.io/) | Apache Committer and PMC Member | Seasoned Engineering Manager
+##### Software Architect | Associate Director | Developer of [Ballerina Language](https://ballerina.io/) | Apache Committer and PMC Member | Seasoned Engineering Manager | Distributed Systems Enthusiast | Forever learner 
 
 <!--suppress CheckImageSize -->
 <table>
@@ -20,10 +20,11 @@
   </tr>
 </table>
 
-A distributed system specialist with a demonstrated ten(+) year history of working in the computer software industry. Especially in the domain of microservices, middleware and API management. Possess excellent skills in various areas starting from programming, customer handling to team management. Started the career working on a Domain Specific Language (DSL) for integration and currently working on a fully-fledged programming language specialized for writing distributed applications.
+I am a distributed system specialist with over ten years of experience working in the computer software industry. I started my career working on a high-performance stock brokerage system before moving on to work on a [Domain Specific Language (DSL)](https://synapse.apache.org/) for integration. Currently, I am working on developing a fully-fledged [programming language](https://ballerina.io/) specialized in writing distributed applications.
 
-I have a passion for travel, immersing myself in unfamiliar places, experiencing diverse cultures, and preserving those moments through captivating photographs.
+My skills go beyond just programming, as I am also proficient in customer handling and team management. Over the years, I have effectively led teams and delivered high-quality results. In fact, I had the opportunity to play the Engineering Management role for a team of over 70 engineers for two years, where I built a culture of quality and timely releases.
 
+Apart from my passion for technology, I also have a love for travel. Exploring unfamiliar places and immersing myself in diverse cultures is something that fascinates me. I also enjoy capturing my travel moments through captivating photographs.
 <br/><br/>
 
 ## EDUCATION
