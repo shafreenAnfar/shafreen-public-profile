@@ -199,6 +199,9 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 - <a href="https://medium.com/@anfar.shafreen/five-principles-of-ethical-leadership-218eccbb4918" target="_blank">Five Principles of Ethical Leadership</a> (Mar 2017)
 - <a href="https://github.com/ballerina-platform/module-ballerina-http/tree/master/examples/snowpeak" target="_blank">A Guideline on Writing REST APIs</a> (Jan 2022)
 
+### YouTube training
+
+<a href="https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN" target="_blank">[Introductory] Integration with Ballerina</a> (May 2023)
 
 <br/><br/>
 
