@@ -187,6 +187,7 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 
 ### Articles/Blogs
 
+- <a href="https://medium.com/@anfar.shafreen/the-fallacies-of-integration-and-the-way-forward-a6a0f422497e" target="_blank">The fallacies of integration and the way forward</a> (Oct 2023)
 - <a href="https://medium.com/ballerina-techblog/spring-boot-vs-ballerina-back-end-for-front-end-bff-service-e108eda70f95" target="_blank">Spring Boot vs Ballerina: Back-end For Front-end (BFF) Service</a> (Dec 2022)
 - <a href="https://medium.com/@anfar.shafreen/few-rules-for-teams-with-diverse-individuals-1aebbef45a24" target="_blank">Few Rules for Teams with Diverse Individuals</a> (Dec 2019)
 - <a href="https://medium.com/ballerina-techblog/level-zero-spring-boot-vs-ballerina-805d01739ea3" target="_blank">Spring Boot vs Ballerina: Hello-World Service</a> (Aug 2021)
@@ -199,9 +200,12 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 - <a href="https://medium.com/@anfar.shafreen/five-principles-of-ethical-leadership-218eccbb4918" target="_blank">Five Principles of Ethical Leadership</a> (Mar 2017)
 - <a href="https://github.com/ballerina-platform/module-ballerina-http/tree/master/examples/snowpeak" target="_blank">A Guideline on Writing REST APIs</a> (Jan 2022)
 
-### YouTube training
+### YouTube Videos
 
-<a href="https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN" target="_blank">[Introductory] Integration with Ballerina</a> (May 2023)
+- <a href="https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN" target="_blank">[Introductory] Integration with Ballerina</a> (May 2023)
+- <a href="https://www.youtube.com/watch?v=89HIqrjsEmA" target="_blank">Getting started with Azure Functions in Ballerina</a> (Oct 2023)
+- <a href="https://www.youtube.com/watch?v=qierfHRpn6I" target="_blank">Ballerina: Discover how Ballerina simplifies integration tasks on Azure</a> (Sep 2023)
+- <a href="https://www.youtube.com/watch?v=hfzCJfGIJRQ" target="_blank">Notes from the Book Talk Like Ted By Carmine Gallo</a> (Aug 2023)
 
 <br/><br/>
 
@@ -415,6 +419,9 @@ DirectFN is a pioneer in FinTech. It provides ready made one-stop fully integrat
     </td>
     <td style="border: none;">
       <img src="./images/books/hitrefresh.jpeg" alt="Hit Refresh" width="150"/>
+    </td>
+    <td style="border: none;">
+      <img src="./images/books/cleanArchitecture.jpeg" alt="Hit Refresh" width="150"/>
     </td>
   </tr>
 </table>
