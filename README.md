@@ -15,7 +15,8 @@
       <a href="https://github.com/shafreenAnfar" target="_blank"><img src="./icons/32x/github.png" alt="github" width="20"></a>&nbsp;&nbsp;
       <a href="https://medium.com/@anfar.shafreen" target="_blank"><img src="./icons/32x/medium.png" alt="medium" width="20"></a>&nbsp;&nbsp;
       <a href="https://twitter.com/shafreen101" target="_blank"><img src="./icons/32x/twitter.png" alt="twitter" width="20"></a>&nbsp;&nbsp;
-      <a href="https://500px.com/p/Shafreen?view=photos" target="_blank"><img src="./icons/32x/500px.png" alt="500px" width="20"></a>
+      <a href="https://500px.com/p/Shafreen?view=photos" target="_blank"><img src="./icons/32x/500px.png" alt="500px" width="20"></a>&nbsp;&nbsp;
+      <a href="https://www.youtube.com/@shafreenanfar7860/videos" target="_blank"><img src="./icons/32x/youtube.png" alt="500px" width="20"></a>
     </td>
   </tr>
 </table>
@@ -187,6 +188,7 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 
 ### Articles/Blogs
 
+- <a href="https://medium.com/@anfar.shafreen/ballerina-concurrency-no-more-ticking-time-bombs-4a360ac4b1ab" target="_blank">Ballerina Concurrency: No More Ticking Time Bombs</a> (Nov 2024)
 - <a href="https://medium.com/@anfar.shafreen/the-fallacies-of-integration-and-the-way-forward-a6a0f422497e" target="_blank">The fallacies of integration and the way forward</a> (Oct 2023)
 - <a href="https://medium.com/ballerina-techblog/spring-boot-vs-ballerina-back-end-for-front-end-bff-service-e108eda70f95" target="_blank">Spring Boot vs Ballerina: Back-end For Front-end (BFF) Service</a> (Dec 2022)
 - <a href="https://medium.com/@anfar.shafreen/few-rules-for-teams-with-diverse-individuals-1aebbef45a24" target="_blank">Few Rules for Teams with Diverse Individuals</a> (Dec 2019)
@@ -203,6 +205,7 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 ### YouTube Videos
 
 - <a href="https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN" target="_blank">[Introductory] Integration with Ballerina</a> (May 2023)
+- <a href="https://youtu.be/BFBfQz9fYaU" target="_blank">Unravelling the Ballerina WebSub Hub</a> (Nov 2024)
 - <a href="https://www.youtube.com/watch?v=89HIqrjsEmA" target="_blank">Getting started with Azure Functions in Ballerina</a> (Oct 2023)
 - <a href="https://www.youtube.com/watch?v=qierfHRpn6I" target="_blank">Ballerina: Discover how Ballerina simplifies integration tasks on Azure</a> (Sep 2023)
 - <a href="https://www.youtube.com/watch?v=hfzCJfGIJRQ" target="_blank">Notes from the Book Talk Like Ted By Carmine Gallo</a> (Aug 2023)
@@ -213,19 +216,27 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 
 <table>
   <tr style="border: none;">
-    <td style="border: none;">
+    <!-- <td style="border: none;">
       <img src="./images/awards/award1.jpeg" alt="Outsanding performance award" width="200"/>
-    </td>
+    </td> -->
     <td style="border: none;">
       <img src="./images/awards/award2.jpeg" alt="Outsanding performance award" width="200"/>
     </td>
     <td style="border: none;">
       <img src="./images/awards/award3.jpg" alt="Outsanding performance award" width="200"/>
     </td>
+    <td style="border: none;">
+      <img src="./images/awards/award4.jpg" alt="Outsanding performance award" width="200"/>
+    </td>
   </tr>
 </table>
 
 <table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="./icons/16x/award.png" alt="awards icon" width="15"><b>Award for Top Five Percent Performers (Jan 2024) </b><br/>Awarded in recognition of being among the top five performers out of 800 employees in 2024<br/>
+    </td>
+  </tr>
   <tr style="border: none;">
     <td style="border: none;">
       <img src="./icons/16x/award.png" alt="awards icon" width="15"><b>Outstanding Contribution Award (Dec 2020) </b><br/>Rewarded this in recognition of my outstanding contribution in 2020.<br/>
