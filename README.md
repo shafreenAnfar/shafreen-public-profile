@@ -205,6 +205,7 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 ### YouTube Videos
 
 - <a href="https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN" target="_blank">[Introductory] Integration with Ballerina</a> (May 2023)
+- <a href="https://www.youtube.com/watch?v=I00MwlNpQuk" target="_blank">Facilitating Integration: WebSub as an Enabler | MOSIP Connect 2024</a> (March 2024)
 - <a href="https://youtu.be/BFBfQz9fYaU" target="_blank">Unravelling the Ballerina WebSub Hub</a> (Nov 2024)
 - <a href="https://www.youtube.com/watch?v=89HIqrjsEmA" target="_blank">Getting started with Azure Functions in Ballerina</a> (Oct 2023)
 - <a href="https://www.youtube.com/watch?v=qierfHRpn6I" target="_blank">Ballerina: Discover how Ballerina simplifies integration tasks on Azure</a> (Sep 2023)
@@ -376,9 +377,9 @@ DirectFN is a pioneer in FinTech. It provides ready made one-stop fully integrat
       <img src="./images/customer-engagement.png" alt="awards icon" width="1200">
     </td>
     <td style="border: none;">
-      In addition to aforementioned projects, I have taken part in many customer engagements around the globe. These customer engagements varies from Quick Start Programs (QSPs) in which a proof of concept is implemented withing a time period of one week, customer training programs related to WSO2 products, to troubleshooting urgent production issues on sight. 
+      In addition to the aforementioned projects, I have participated in many customer engagements around the globe. These customer engagements vary from Quick Start Programs (QSPs), in which a proof of concept is implemented within a one-week time frame, to customer training programs related to WSO2 products, and troubleshooting urgent production issues on-site. I have also participated in several conferences.
       <br/><br/>
-      Countries: Canada, Germany, India, Italy, Netherlands, Singapore, Spain, Sri Lanka, Switzerland, UK, USA
+      Countries: Canada, Ethiopia, Germany, India, Italy, Netherlands, Singapore, Spain, Sri Lanka, Switzerland, UK, USA
     </td>
   </tr>
 </table>
