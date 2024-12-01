@@ -389,6 +389,7 @@ DirectFN is a pioneer in FinTech. It provides ready made one-stop fully integrat
 
 | Date| Description |
 |----------|---|
+| Nov 2024 | Started working at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a> as the AI Lead for the Integration Department|
 | Feb 2022 | Released <a href="https://ballerina.io/" target="_blank">Ballerina 2201.0.0 (Swan Lake)</a> programming language (open-source project), which I contributed full-time as the stanadard library architect|
 | Nov 2021 | Promoted to software architect at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a>|
 | Mar 2020 | Completed working at <a href="https://wso2.com/" target="_blank">WSO2 Inc</a> as an engineering manager|
