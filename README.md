@@ -51,7 +51,7 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 
 <br/><br/>
 
-## PROFESSIONAL EXPERIENCES
+## PROFESSIONAL EXPERIENCE
 
 <table>
   <tr style="border: none;">
@@ -202,14 +202,13 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 - <a href="https://medium.com/@anfar.shafreen/five-principles-of-ethical-leadership-218eccbb4918" target="_blank">Five Principles of Ethical Leadership</a> (Mar 2017)
 - <a href="https://github.com/ballerina-platform/module-ballerina-http/tree/master/examples/snowpeak" target="_blank">A Guideline on Writing REST APIs</a> (Jan 2022)
 
-### YouTube Videos
+### Technical Videos
 
 - <a href="https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN" target="_blank">[Introductory] Integration with Ballerina</a> (May 2023)
 - <a href="https://www.youtube.com/watch?v=I00MwlNpQuk" target="_blank">Facilitating Integration: WebSub as an Enabler | MOSIP Connect 2024</a> (March 2024)
 - <a href="https://youtu.be/BFBfQz9fYaU" target="_blank">Unravelling the Ballerina WebSub Hub</a> (Nov 2024)
 - <a href="https://www.youtube.com/watch?v=89HIqrjsEmA" target="_blank">Getting started with Azure Functions in Ballerina</a> (Oct 2023)
 - <a href="https://www.youtube.com/watch?v=qierfHRpn6I" target="_blank">Ballerina: Discover how Ballerina simplifies integration tasks on Azure</a> (Sep 2023)
-- <a href="https://www.youtube.com/watch?v=hfzCJfGIJRQ" target="_blank">Notes from the Book Talk Like Ted By Carmine Gallo</a> (Aug 2023)
 
 <br/><br/>
 
