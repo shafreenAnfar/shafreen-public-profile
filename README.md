@@ -204,6 +204,7 @@ Apart from my passion for technology, I also have a love for travel. Exploring u
 
 ### Technical Videos
 
+- <a href="https://www.youtube.com/watch?v=LkXh2V1FDkA" target="_blank">Connect Anything with AI-Native Integration</a> (March 2026)
 - <a href="https://www.youtube.com/watch?v=ecyVxRVUYJY" target="_blank">AI-Powered Integration: Do More with Less</a> (March 2025)
 - <a href="https://www.youtube.com/watch?v=pJ1JMUPLeDw" target="_blank">Increasing Demand for Event Driven Architecture (EDA)</a> (Jan 2025)
 - <a href="https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN" target="_blank">[Introductory] Integration with Ballerina</a> (May 2023)
