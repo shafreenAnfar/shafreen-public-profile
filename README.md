@@ -381,7 +381,7 @@ DirectFN is a pioneer in FinTech. It provides ready made one-stop fully integrat
     <td style="border: none;">
       In addition to the aforementioned projects, I have participated in many customer engagements around the globe. These customer engagements vary from Quick Start Programs (QSPs), in which a proof of concept is implemented within a one-week time frame, to customer training programs related to WSO2 products, and troubleshooting urgent production issues on-site. I have also participated in several conferences.
       <br/><br/>
-      Countries: Canada, Ethiopia, Germany, India, Italy, Netherlands, Singapore, Spain, Sri Lanka, Switzerland, UK, USA
+      Countries: Canada, Ethiopia, Germany, India, Italy, Netherlands, Singapore, Spain, Sri Lanka, Switzerland, Portugal, UK, USA
     </td>
   </tr>
 </table>
